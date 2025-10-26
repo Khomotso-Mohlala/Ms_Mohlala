@@ -1,4 +1,4 @@
-igures generated for the Honours project:
+Figures generated for the Honours project:
 “Patterns of HPV Co-Infection, Persistence, and Infection Trajectories in South African Women”
 
 Fig1_CONSORT_Diagram.png              - Participant flow diagram outlining inclusion and exclusion.
