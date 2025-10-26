@@ -1,0 +1,8 @@
+This repository does not contain the raw participant datasets due to ethical restrictions.
+
+Please see the main README file in the root directory for data access information.
+
+Access requests should be directed to:
+Prof. Lenine Liebenberg
+School for Data Science and Computational Thinking
+Stellenbosch University
