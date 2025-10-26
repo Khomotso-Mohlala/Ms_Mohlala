@@ -1,4 +1,3 @@
-<img width="2909" height="123" alt="image" src="https://github.com/user-attachments/assets/b62e1337-7125-41ad-bb0f-4638fb97a471" /># Patterns of HPV Co-Infection, Persistence, and Infection Trajectories in South African Women
 
 This repository contains code and analyses for my Honours project, **“Patterns of HPV Co-Infection, Persistence, and Infection Trajectories in South African Women.”**  
 The study investigates **HPV genotype co-infections and infection trajectories** using longitudinal cervicovaginal lavage (CVL) samples from young women enrolled in the **FRESH cohort (KwaZulu-Natal, South Africa)** — a **pre-vaccine cohort**.
@@ -32,10 +31,10 @@ Scripts were executed using **RStudio** on both a **local Windows environment**
 ## 📂 Repository contents
 | Folder | Description |
 |--------|--------------|
-| **`data/`** | Contains metadata or placeholder text for human-participant data. Due to ethical restrictions, raw participant data are **not publicly available**. For access requests, please contact **Prof. Lenine Liebenberg** (Principal Investigator). |
+| **`data/`** | Contains metadata or placeholder text for human-participant data. Due to ethical restrictions, raw participant data are **not publicly available**. For access requests, please contact **Prof. Lenine Liebenberg** . |
 | **`scripts/`** | Includes all **R scripts** used for data cleaning, baseline characteristics analysis, and scripts addressing each study objective. |
 | **`figures/`** | Stores all **figures generated** from analyses (e.g., prevalence charts, co-infection heatmaps, alluvial diagrams). |
-| **`tables/`** | Contains **supplementary data tables** referenced in the written thesis (e.g., baseline characteristics, HPV type prevalence, persistence summaries). |
+| **`tables/`** | Contains **supplementary data tables** referenced in the written thesis (e.g., baseline characteristics, HPV co-inefction patterns). |
 
 ---
 
