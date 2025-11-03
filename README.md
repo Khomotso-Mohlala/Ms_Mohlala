@@ -1,6 +1,6 @@
 
-This repository contains code and analyses for my Honours project, **“Patterns of HPV Co-Infection, Persistence, and Infection Trajectories in South African Women.”**  
-The study investigates **HPV genotype co-infections and infection trajectories** using longitudinal cervicovaginal lavage (CVL) samples from young women enrolled in the **FRESH cohort (KwaZulu-Natal, South Africa)** — a **pre-vaccine cohort**.
+This repository contains code and analyses for my Honours project
+
 
 ### 📖 Study significance
 This work provides **baseline HPV genotype data** that can serve as a foundation for understanding **HPV vaccine efficacy** in a population with a high burden of HPV.  
